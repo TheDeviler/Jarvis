@@ -1,0 +1,17 @@
+[
+  {
+    "role": "user",
+    "content": "cscsc",
+    "message": "I'm not sure what you mean by \"cscsc\". Could you please provide more context or clarify your question? I'd be happy to help if I understand the problem or information you're asking about."
+  },
+  {
+    "role": "user",
+    "content": "palle",
+    "message": "I'm not sure what you mean by \"palle\". Could you please provide more context or clarify your question? I'd be happy to help if you can give me more information about what you're asking or trying to say."
+  },
+  {
+    "role": "user",
+    "content": "exit",
+    "message": "Okay, I'll be here if you need anything. Goodbye!"
+  }
+]
